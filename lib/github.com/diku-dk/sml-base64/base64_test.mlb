@@ -1,0 +1,6 @@
+local
+  $(SML_LIB)/basis/basis.mlb
+  base64.mlb
+in
+  base64_test.sml
+end
