@@ -39,6 +39,7 @@ Disclaimer
     POSSIBILITY OF SUCH DAMAGE.
 *)
 
+(** SigDoc *)
 structure Base64 : BASE64 =
 struct
 
